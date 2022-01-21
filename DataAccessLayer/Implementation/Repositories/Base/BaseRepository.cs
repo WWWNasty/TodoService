@@ -1,7 +1,6 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using DataAccessLayer.Abstraction.RepositoryInterfaces.Base;
-using DataAccessLayer.DataAccess;
 using DataAccessLayer.Models.Base;
 using Microsoft.EntityFrameworkCore;
 

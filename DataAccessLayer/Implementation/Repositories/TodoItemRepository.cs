@@ -1,5 +1,4 @@
 using DataAccessLayer.Abstraction.RepositoryInterfaces;
-using DataAccessLayer.DataAccess;
 using DataAccessLayer.Implementation.Repositories.Base;
 using DataAccessLayer.Models;
 

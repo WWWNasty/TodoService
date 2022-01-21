@@ -1,6 +1,5 @@
 using DataAccessLayer.Abstraction;
 using DataAccessLayer.Abstraction.RepositoryInterfaces;
-using DataAccessLayer.DataAccess;
 using DataAccessLayer.Implementation.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;

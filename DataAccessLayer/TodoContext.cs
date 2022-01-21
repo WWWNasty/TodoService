@@ -1,7 +1,7 @@
 ﻿using DataAccessLayer.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace DataAccessLayer.DataAccess
+namespace DataAccessLayer
 {
     public class TodoContext : DbContext
     {
