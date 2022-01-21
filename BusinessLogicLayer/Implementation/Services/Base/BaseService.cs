@@ -7,7 +7,7 @@ namespace BusinessLogicLayer.Implementation.Services.Base
         protected void Validate(object entity)
         {
             var validationContext = new ValidationContext(entity);
-            Validator.ValidateObject(entity, validationContext);
+            Validator.ValidateObject(entity, validationContext, true);
         }
     }
 }
